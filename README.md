@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashank Dixit</h1>
-<h3 align="center">Building one platform so a Dubai penthouse and a small business in Bihar get the same marketing team. Run your entire marketing just by talking in English.</h3>
+<h3 align="center">Ex-Product Growth at Emergent ($1.5B). Now building a platform where you run your entire marketing just by talking in English.</h3>
 
 <p align="center">
   <a href="https://www.shashankdixit.sbs"><b>Portfolio → shashankdixit.sbs</b></a>
